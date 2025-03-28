@@ -10,5 +10,5 @@ Features & Limitations:
 6. Supports URP only.
 7. Does not require RTX hardware.
 
-Credits:
+
 Inspired by: SEGI ( https://github.com/sonicether/SEGI )
